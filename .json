@@ -1,0 +1,62 @@
+{
+    "recomendados": [
+        {
+            "id": 1,
+            "title": "Orgullo y Prejuicio",
+            "banner_title": "https://www.themoviedb.org/t/p/original/rbTenWCzDPpcG16htePzy5i06Mu.png",
+            "sinopsis": "Las cinco hermanas Bennet han sido criadas por una madre obsesionada por encontrarles marido. Pero una de ellas, Lizzie, inteligente y con carácter, desea una vida con perspectivas más abiertas, un anhelo respaldado por su padre. En el baile de bienvenida, Lizzie conoce al apuesto y elegante señor Darcy, pero, a primera vista, le parece demasiado orgulloso y arrogante.",
+            "banner": "https://www.themoviedb.org/t/p/original/zpKP7iFJ9K5bXVXFLSYu2Ciq9AG.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/8rps0oYelhGzn5a6VpYzndf5hQZ.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Las ventajas de ser invisible",
+            "banner_title": "https://www.themoviedb.org/t/p/original/prguWBwpckbheOGbePEXuPR0spI.png",
+            "sinopsis": "Un introvertido estudiante de primer año es acogido bajo las alas de dos estudiantes de último año que le dan la bienvenida al mundo real.",
+            "banner": "https://www.themoviedb.org/t/p/original/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/vjWqQAe4cYdzDuqO4U0kiN7qO4r.jpg"
+        },
+        {
+            "id": 3,
+            "title": "about time",
+            "banner_title": "https://www.themoviedb.org/t/p/original/tCDrHCcIbaqaYmUP94PRI9xn86O.png",
+            "sinopsis": "A la edad de 21 años, Tim descubre que puede viajar en el tiempo y cambiar lo que sucede y ha sucedido en su propia vida. Su decisión de hacer de su mundo un lugar mejor consiguiendo una novia resulta no ser tan fácil como se podría pensar.",
+            "banner": "https://www.themoviedb.org/t/p/original/ppWSi3evUtz9YGNcmsnjmH3FARy.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg"
+        },
+        {
+            "id": 4,
+            "title": "La sociedad de los poetas muertos",
+            "banner_title": "https://www.themoviedb.org/t/p/original/o7PJJbF7DspzQ82jORDgn0pCPXz.png",
+            "sinopsis": "El profesor inconformista John Keating usa la poesía para envalentonar a sus alumnos de internado a nuevas alturas de auto-expresión.",
+            "banner": "https://www.themoviedb.org/t/p/original/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Lady Bird",
+            "banner_title": "https://www.themoviedb.org/t/p/original/qFU4nfCaXNISSsDeC9AhmYVykZ.png",
+            "sinopsis": "Christine, que se hace llamar Lady Bird (Saoirse Ronan), es una adolescente de Sacramento en su último año de instituto. La joven, con inclinaciones artísticas y que sueña con vivir en la costa Este, trata de ese modo encontrar su propio camino y definirse fuera de la sombra protectora de su madre (Laurie Metcalf).",
+            "banner": "https://www.themoviedb.org/t/p/original/2ByWxoMbfE3pxztCJn5qTJ5Ui2Y.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/kfst6DxzGXbdibQPawxQSSuDh09.jpg"
+        }
+    ],
+    "trending": [
+        {
+            "id": 7,
+            "title": "animales nocturnos",
+            "banner_title": "https://www.themoviedb.org/t/p/w500/in2lzXwQhWoAJg11Amv00eC1nke.png",
+            "sinopsis": "Una mujer llamada Susan recibe un manuscrito del libro de su ex marido - un hombre que dejó 20 años antes - pidiendo su opinión de su escritura. Mientras lee, se siente atraída por la vida ficticia de Tony Hastings, un profesor de matemáticas cuyas vacaciones familiares se vuelven violentas.",
+            "banner": "https://www.themoviedb.org/t/p/original/wUnHIzKMngLwVowSDApUV5PFern.jpg",
+            "card": "https://www.themoviedb.org/t/p/w220_and_h330_face/6zTRty2REwxljziiWyrRbgOwAo7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Beautiful Boy",
+            "banner_title": "https://www.themoviedb.org/t/p/w500/A1X6GzToo2x550IN8HjmFo2DLM9.png",
+            "sinopsis": "Crónica sobre la adicción a la metanfetamina y el intento de recuperación y de salir de las drogas a través de los ojos de un padre que observa a su hijo mientras lucha contra la enfermedad de la drogodependencia.",
+            "banner": "https://www.themoviedb.org/t/p/original/vy5bKKjcdws80nF9xSCeuXqOyuL.jpg",
+            "card": "https://www.themoviedb.org/t/p/w220_and_h330_face/l5h41CmLZHApp76D7FQEbRX7Yom.jpg"
+        }
+    ]
+}
