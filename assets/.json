@@ -113,6 +113,22 @@
             "synopsis": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
             "banner": "https://www.themoviedb.org/t/p/original/znsgNAo52yCTtkHfmF1N0vIfj6D.jpg",
             "card": "https://www.themoviedb.org/t/p/original/zeqGKVeuqhsh7WSyJAdczW4k51H.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Fantastic Mr. Fox",
+            "banner_title": "https://www.themoviedb.org/t/p/original/6VuGuw5Wo6j38x21zvNTfmhwdsp.png",
+            "synopsis": "El Sr. Fox Fantástico aburrido con su vida corriente, planea un atraco contra los tres agricultores locales. Los agricultores, cansados de compartir sus pollos con la zorra, buscan la venganza contra él y su familia.",
+            "banner": "https://www.themoviedb.org/t/p/original/zWeN6tQPRYztSyUDeo1FfrXg6Ta.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/jAFvXFcup7pQOyofJlxPr6rcFaa.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Knives Out",
+            "banner_title": "https://www.themoviedb.org/t/p/original/aYKRKkxwkHTP3sGHp8E5tnNHhvy.png",
+            "synopsis": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la muerte del escritor.",
+            "banner": "https://www.themoviedb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/U25B0cIWQ0vTmQ6IZNLcsgHFsE.jpg"
         }
     ]
 }

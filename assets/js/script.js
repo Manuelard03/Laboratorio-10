@@ -57,7 +57,7 @@ const mifuncion = async () => {
   );
   const data = await response.json();
   const carruseles = document.querySelectorAll(".carousel");
-  const favoritos = document.querySelectorAll(".carousel_favourites");
+  const favoritos = document.querySelectorAll (".carousel2");
   const mainMovie = document.querySelector('.main-movie');
   
   for (let movie of data.suggested) {
