@@ -4,11 +4,11 @@ export class Pelicula {
     tarjeta = ""
     overview = ""
 
-    constructor (title_banner, banner, card, sinopsis){
+    constructor (title_banner, banner, card, synopsis){
         this.titulo = title_banner;
         this.banner = banner;
         this.tarjeta = card;
-        this.overview = sinopsis;
+        this.overview = synopsis;
     }
 
     render() {
@@ -17,6 +17,15 @@ export class Pelicula {
         const img = document.createElement('img')
         card.classList.add ("pelicula")
         img.src = this.tarjeta;
+        a.href = "#";
+        card.innerHTML = `
+        <div class="rating">
+            <button><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i
+                class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i
+                class="fa-regular fa-star"></i></button>
+            <button><i class="fa-regular fa-bookmark"></i> Añadir</button>
+        <div>
+        `;
         card.appendChild(a);
         a.appendChild(img);
         return card;

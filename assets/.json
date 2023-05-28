@@ -21,8 +21,8 @@
             "title": "about time",
             "banner_title": "https://www.themoviedb.org/t/p/original/tCDrHCcIbaqaYmUP94PRI9xn86O.png",
             "synopsis": "A la edad de 21 años, Tim descubre que puede viajar en el tiempo y cambiar lo que sucede y ha sucedido en su propia vida. Su decisión de hacer de su mundo un lugar mejor consiguiendo una novia resulta no ser tan fácil como se podría pensar.",
-            "banner": "https://www.themoviedb.org/t/p/original/ppWSi3evUtz9YGNcmsnjmH3FARy.jpg",
-            "card": "https://www.themoviedb.org/t/p/original/qWnJzyZhyy74gjpSjIXWmuk0ifX.jpg"
+            "banner": "https://www.themoviedb.org/t/p/original/3azw5uVGlaQtELBKG6bcHJlxZOk.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/6b8zipp2Z4Io5RVuaATBNKtlbE6.jpg"
         },
         {
             "id": 4,
@@ -47,11 +47,27 @@
             "synopsis": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia.",
             "banner": "https://www.themoviedb.org/t/p/original/jKpQiKPYNGBxjsrxZpMGTwggKw8.jpg",
             "card": "https://www.themoviedb.org/t/p/original/8eWVXQZ6yqKfkuHhWD5RcdHnszT.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Your Name",
+            "banner_title": "https://www.themoviedb.org/t/p/original/hs2zAJOauQ0N1q6hjhnFrBBqNQt.png",
+            "synopsis": "Mitsuha es la hija del alcalde de una pequeña ciudad de montaña. Es una joven sencilla de escuela secundaria que vive con su hermana y su abuela y no tiene ningún reparo en que se sepa que no está interesada en los rituales sintoístas ni en ayudar a la campaña electoral de su padre. En su lugar sueña con abandonar la aburrida ciudad y probar suerte en Tokio. Taki es un chico de secundaria en Tokio que trabaja medio tiempo en un restaurante italiano y aspira a convertirse en arquitecto o artista. Cada noche tiene un extraño sueño donde se convierte... en una chica de escuela secundaria en un pequeño pueblo de montaña.",
+            "banner": "https://www.themoviedb.org/t/p/original/rjs5IfIv6Psl2YCSHKcluhTQGjJ.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Breaksfast Club",
+            "banner_title": "https://www.themoviedb.org/t/p/original/iyFNHG7CwqWHMPQI1FsDjczZx7I.png",
+            "synopsis": "Cinco estudiantes de distinta educación, formación y gustos son castigados a pasar un sábado en el instituto en el que estudian. Pronto las desavenencias entre ellos aparecen, especialmente cuando el director que les vigila se ausenta del aula.",
+            "banner": "https://www.themoviedb.org/t/p/original/x6CBvIUZ5NtBMNQS7BYyGYPzRAG.jpg",
+            "card": "https://www.themoviedb.org/t/p/original/2MqfUrqUamgzkV1snw6HDrDnxWx.jpg"
         }
     ],
     "favourites": [
         {
-            "id": 7,
+            "id": 9,
             "title": "animales nocturnos",
             "banner_title": "https://www.themoviedb.org/t/p/w500/in2lzXwQhWoAJg11Amv00eC1nke.png",
             "synopsis": "Una mujer llamada Susan recibe un manuscrito del libro de su ex marido - un hombre que dejó 20 años antes - pidiendo su opinión de su escritura. Mientras lee, se siente atraída por la vida ficticia de Tony Hastings, un profesor de matemáticas cuyas vacaciones familiares se vuelven violentas.",
@@ -59,7 +75,7 @@
             "card": "https://www.themoviedb.org/t/p/w220_and_h330_face/6zTRty2REwxljziiWyrRbgOwAo7.jpg"
         },
         {
-            "id": 8,
+            "id": 10,
             "title": "Beautiful Boy",
             "banner_title": "https://www.themoviedb.org/t/p/w500/A1X6GzToo2x550IN8HjmFo2DLM9.png",
             "synopsis": "Crónica sobre la adicción a la metanfetamina y el intento de recuperación y de salir de las drogas a través de los ojos de un padre que observa a su hijo mientras lucha contra la enfermedad de la drogodependencia.",
@@ -67,7 +83,7 @@
             "card": "https://www.themoviedb.org/t/p/w220_and_h330_face/l5h41CmLZHApp76D7FQEbRX7Yom.jpg"
         },
         {
-            "id": 9,
+            "id": 11,
             "title": "The Breadwinner",
             "banner_title": "https://www.themoviedb.org/t/p/original/dohrZQkISHO7nrl0HMuwzfLVzTT.png",
             "synopsis": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
@@ -75,7 +91,7 @@
             "card": "https://www.themoviedb.org/t/p/original/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg"
         },
         {
-            "id": 10,
+            "id": 12,
             "title": "Get Out",
             "banner_title": "https://www.themoviedb.org/t/p/original/dJ3LNGrU9Mav7xkpcQb8N53ggWY.png",
             "synopsis": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris (Daniel Kaluuya) y su novia Rose (Allison Williams) ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy (Catherine Keener) y Dean (Bradley Whitford).",
@@ -83,7 +99,7 @@
             "card": "https://www.themoviedb.org/t/p/original/1wDx5IUUXTJnsagWCj8LdjAgCi.jpg"
         },
         {
-            "id": 11,
+            "id": 13,
             "title": "Big Hero 6",
             "banner_title": "https://www.themoviedb.org/t/p/original/yRyhoskxfK12s5FBE8w05knA1rv.png",
             "synopsis": "Grandes héroes es una comedia de aventuras cargada de acción sobre el prodigio de la robótica Hiro Hamada, quien se ve envuelto en una peligrosa conspiración y debe transformar a su compañero más íntimo —un robot llamado Baymax— y a su diverso grupo de amigos en una banda de héroes de última tecnología.",
@@ -91,7 +107,7 @@
             "card": "https://www.themoviedb.org/t/p/original/7JEqFZ47vD5Bii3gSZc99uPaX18.jpg"
         },
         {
-            "id": 12,
+            "id": 14,
             "title": "Gone Girl",
             "banner_title": "https://www.themoviedb.org/t/p/original/ysAgMZXlwv3bAJCmvdcKuv8DgtG.png",
             "synopsis": "El día de su quinto aniversario de boda, Nick Dunne informa de que su esposa Amy ha desaparecido misteriosamente. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa...",
