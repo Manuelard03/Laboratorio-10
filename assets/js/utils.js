@@ -23,7 +23,7 @@ export class Pelicula {
             <button><i class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i
                 class="fa-regular fa-star"></i><i class="fa-regular fa-star"></i><i
                 class="fa-regular fa-star"></i></button>
-            <button><i class="fa-regular fa-bookmark"></i> Añadir</button>
+            <button><i class="fa-regular fa-bookmark"></i></button>
         <div>
         `;
         card.appendChild(a);

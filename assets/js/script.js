@@ -58,7 +58,7 @@ const mifuncion = async () => {
   const data = await response.json();
   const carruseles = document.querySelectorAll(".carousel");
   const favoritos = document.querySelectorAll (".carousel2");
-  const mainMovie = document.querySelector('.main-movie');
+  const peliculaprincipal = document.querySelector('.peliculaprincipal');
   
   for (let movie of data.suggested) {
     let peli = new Pelicula(movie.card, movie.banner, movie.id, movie.banner_title, movie.synopsis);
@@ -81,9 +81,9 @@ const mifuncion = async () => {
   for (let peli of data.suggested) {
     let tarjeta = document.getElementById(peli.id);
     tarjeta.addEventListener('click', () => {
-      const mainMovie = document.querySelector('.main-movie');
-      mainMovie.style.backgroundColor = 'linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0))';
-      mainMovie.innerHTML = `
+      const mainMovie = document.querySelector('.peliculaprincipal');
+      peliculaprincipal.style.backgroundColor = 'linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0))';
+      peliculaprincipal.innerHTML = `
       <div class="botones"><button role="button" class="boton"><i class="fa-solid fa-play"></i>Reproducir</button>
       <button role="button" class="boton"><i class="fa-regular fa-bookmark"></i>Guardar</button>`;
       const descripcion = document.createElement("p");
@@ -95,11 +95,11 @@ const mifuncion = async () => {
       descripcion.innerHTML = `
         ${peli.synopsis}
         `;
-      mainMovie.appendChild(descripcion);
-      mainMovie.appendChild(titulo_banner);
+      peliculaprincipal.appendChild(descripcion);
+      peliculaprincipal.appendChild(titulo_banner);
       titulo_banner.appendChild(img_title);
-      mainMovie.style.background = `linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0.855)), url(${peli.banner})`;
-      mainMovie.style.backgroundSize = 'cover';
+      peliculaprincipal.style.background = `linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0.855)), url(${peli.banner})`;
+      peliculaprincipal.style.backgroundSize = 'cover';
       return
     });
   };
@@ -107,11 +107,8 @@ const mifuncion = async () => {
   for (let peli of data.favourites) {
     let tarjeta = document.getElementById(peli.id);
     tarjeta.addEventListener('click', () => {
-      const mainMovie = document.querySelector('.main-movie');
-      mainMovie.style.backgroundColor = 'linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0))';
-      mainMovie.innerHTML = `
-      <div class="botones"><button role="button" class="boton"><i class="fa-solid fa-play"></i>Reproducir</button>
-      <button role="button" class="boton"><i class="fa-regular fa-bookmark"></i>Guardar</button>`;
+      const mainMovie = document.querySelector('.peliculaprincipal');
+      peliculaprincipal.style.backgroundColor = 'linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0))';
       const descripcion = document.createElement("p");
       const titulo_banner = document.createElement("h3");
       const img_title = document.createElement("img");
@@ -121,16 +118,16 @@ const mifuncion = async () => {
       descripcion.innerHTML = `
         ${peli.synopsis}
         `;
-      mainMovie.appendChild(descripcion);
-      mainMovie.appendChild(titulo_banner);
+      peliculaprincipal.appendChild(descripcion);
+      peliculaprincipal.appendChild(titulo_banner);
       titulo_banner.appendChild(img_title);
-      mainMovie.style.background = `linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0.855)), url(${peli.banner})`;
-      mainMovie.style.backgroundSize = 'cover';
+      peliculaprincipal.style.background = `linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0.855)), url(${peli.banner})`;
+      peliculaprincipal.style.backgroundSize = 'cover';
       return
     });
   };
 
-  mainMovie.style.backgroundColor = 'linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0))';
+  peliculaprincipal.style.backgroundColor = 'linear-gradient(rgba(0, 0, 255, 0.166), rgba(0, 0, 0, 0))';
 };
 
 mifuncion();
