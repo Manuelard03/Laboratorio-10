@@ -147,14 +147,8 @@ header nav a.activo {
 	margin: 0 80vw;
 	border-radius: 1.5em;
 }
-.peliculas-recomendadas .estrella {
-	color: #f5c000;
-	display: flex;
-}
-
-.peliculas-recomendadas .estrellas{
-	color: #f5c000;
-	margin-right: 20px;
+.peliculas-recomendadas i {
+	color: #f5c000;	
 }
 /* ---- ----- ----- Contenedor titulo ----- ----- ----- */
 .contenedor-titulo {
